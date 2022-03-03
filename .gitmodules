@@ -4,3 +4,6 @@
 [submodule "boe-new-order"]
 	path = boe-new-order
 	url = git@github.com:itiviti-cpp-2022/boe-new-order.git
+[submodule "user-types"]
+	path = user-types
+	url = git@github.com:itiviti-cpp-2022/user-types.git
