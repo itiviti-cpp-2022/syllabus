@@ -7,3 +7,6 @@
 [submodule "user-types"]
 	path = user-types
 	url = git@github.com:itiviti-cpp-2022/user-types.git
+[submodule "simple-vector"]
+	path = simple-vector
+	url = git@github.com:itiviti-cpp-2022/simple-vector.git
