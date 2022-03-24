@@ -10,3 +10,6 @@
 [submodule "simple-vector"]
 	path = simple-vector
 	url = git@github.com:itiviti-cpp-2022/simple-vector.git
+[submodule "lru"]
+	path = lru
+	url = git@github.com:itiviti-cpp-2022/lru.git
