@@ -13,3 +13,6 @@
 [submodule "lru"]
 	path = lru
 	url = git@github.com:itiviti-cpp-2022/lru.git
+[submodule "inheritance-example"]
+	path = inheritance-example
+	url = git@github.com:itiviti-cpp-2022/inheritance-example.git
