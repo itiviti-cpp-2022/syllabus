@@ -22,3 +22,6 @@
 [submodule "iterator"]
 	path = iterator
 	url = git@github.com:itiviti-cpp-2022/iterator.git
+[submodule "class-instantiator"]
+	path = class-instantiator
+	url = git@github.com:itiviti-cpp-2022/class-instantiator.git
